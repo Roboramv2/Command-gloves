@@ -1,3 +1,8 @@
+![Badge](https://img.shields.io/badge/Concept-Finalised-green)
+![Badge](https://img.shields.io/badge/Theory-Completed-green)
+![Badge](https://img.shields.io/badge/Prototype-Working-green)
+![Badge](https://img.shields.io/badge/Final%20Version-In%20progress-blue)
+
 # Command gloves
 
 Project to create a glove/a pair of gloves that can be used in several other projects as control input. Combinations of movements of individual fingers are used for controlling parameters of other projects. For example: lifting the index finger increases the brightness of the lights.
@@ -10,4 +15,4 @@ Arm band designed out of an old sock. Flex sensors I made at home in [another pr
 ### Variation glove:
 Actually bought a glove for this one. Replacing flex sensors with [pull sensor](https://github.com/Roboramv2/Random-projects) of my own design: digital, homemade. Attaching ten such sensors enables monitoring of ten individual joints, allowing greater variety of gesture combinations.
 
-<img src="./images/var1.jpg" width="150"/><img src="./images/var2.JPG" width="150"/>
+<img src="./images/var1.jpg" width="123"/><img src="./images/var2.JPG" width="150"/>
