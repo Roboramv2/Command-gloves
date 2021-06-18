@@ -1,6 +1,6 @@
 ![Badge](https://img.shields.io/badge/Concept-Finalised-green)
 ![Badge](https://img.shields.io/badge/Theory-Completed-green)
-![Badge](https://img.shields.io/badge/Prototype-Working-green)
+![Badge](https://img.shields.io/badge/Prototype-Tested-green)
 ![Badge](https://img.shields.io/badge/Final%20Version-In%20progress-blue)
 
 # Command gloves
@@ -12,7 +12,7 @@ Arm band designed out of an old sock. Flex sensors I made at home in [another pr
 
 <img src="./images/proto1.jpeg" width="150"/><img src="./images/proto2.jpeg" width="150"/>
 
-### Variation glove:
+### Final version:
 Actually bought a glove for this one. Replacing flex sensors with [pull sensor](https://github.com/Roboramv2/Random-projects) of my own design: digital, homemade. Attaching ten such sensors enables monitoring of ten individual joints, allowing greater variety of gesture combinations.
 
 <img src="./images/var1.jpg" width="123"/><img src="./images/var2.JPG" width="150"/>
