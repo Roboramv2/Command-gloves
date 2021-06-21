@@ -20,3 +20,9 @@ Actually bought a glove for this one. Replacing flex sensors with [pull sensor](
 
 ### Result
 <img src="./images/fincon1.jpg" width="140"/><img src="./images/fincon2.jpg" width="140"/>
+
+## 3. Final concept:
+My first test with the glove, a mini project of sorts. I use the gloves to produce sounds of varying frequencies, controlled by flexing my fingers. I use a passive buzzer for the varying frequency output. 
+
+### Construction
+<img src="./images/musicglove.jpg" width="180"/>
