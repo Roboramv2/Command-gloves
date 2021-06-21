@@ -19,4 +19,4 @@ Actually bought a glove for this one. Replacing flex sensors with [pull sensor](
 <img src="./images/const1.jpg" width="180"/><img src="./images/const2.jpg" width="180"/><img src="./images/const3.jpg" width="43"/>
 
 ### Result
-<img src="./images/fincon.jpg" width="140"/>
+<img src="./images/fincon1.jpg" width="140"/><img src="./images/fincon2.jpg" width="140"/>
