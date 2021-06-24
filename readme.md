@@ -1,7 +1,7 @@
 ![Badge](https://img.shields.io/badge/Concept-Finalised-green)
 ![Badge](https://img.shields.io/badge/Theory-Completed-green)
 ![Badge](https://img.shields.io/badge/Prototype-Tested-green)
-![Badge](https://img.shields.io/badge/Final%20Version-In%20progress-blue)
+![Badge](https://img.shields.io/badge/Final%20Version-Finished-green)
 
 # Command gloves
 
